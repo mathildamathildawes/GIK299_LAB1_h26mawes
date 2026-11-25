@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\mathi\\OneDrive\\Dokument\\GIK299\\GIK299_LAB1_h26mawes\\Windchill-kalkylator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DDE88EC-3897-41E5-896B-7C864331DAB8}|Windchill-kalkylator.csproj|c:\\users\\mathi\\onedrive\\dokument\\gik299\\gik299_lab1_h26mawes\\windchill-kalkylator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DDE88EC-3897-41E5-896B-7C864331DAB8}|Windchill-kalkylator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F0C1D7A-1A5E-F817-992F-F2FAA87DD5E3}|Windchill-kalkylator.csproj|c:\\users\\mathi\\onedrive\\dokument\\gik299\\gik299_lab1_h26mawes\\windchill-kalkylator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0C1D7A-1A5E-F817-992F-F2FAA87DD5E3}|Windchill-kalkylator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\mathi\\OneDrive\\Dokument\\GIK299\\GIK299_LAB1_h26mawes\\Windchill-kalkylator\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-25T09:58:13.772Z",
               "EditorCaption": ""
